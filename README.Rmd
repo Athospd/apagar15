@@ -1,0 +1,10 @@
+---
+title: "README"
+output: html_document
+date: "2022-11-03"
+---
+
+```{r}
+hist(rnorm(10))
+```
+
